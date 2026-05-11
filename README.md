@@ -30,7 +30,7 @@
 - **Python 3.8+**
 - **Контроллер DualSense** (по USB)
 - **Linux с PipeWire или PulseAudio**
-- **Утилита `parec` **
+- **Утилита `parec`**
 
 ## Установка
 
