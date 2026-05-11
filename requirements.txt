@@ -1,15 +1,7 @@
-# requirements.txt для DualSense Audio-to-Trigger Bridge
+# requirements.txt
+# Зависимости для запуска приложения
 # Установка: pip install -r requirements.txt
-# Требуется Python >= 3.8
 
-# Управление контроллером DualSense
 dualsense-controller>=0.3.1
-
-# Математические операции и работа с массивами
-numpy>=1.24.0
-
-# Цифровая обработка сигналов (фильтры Баттерворта, FFT и т.д.)
-scipy>=1.10.0
-
-# Для захвата аудио используется системная утилита parec
-# Проверить ее наличие можно командой which parec
+numpy>=1.20.0
+scipy>=1.6.0

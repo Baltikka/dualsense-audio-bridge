@@ -1,0 +1,6 @@
+# requirements-build.txt
+# Зависимости для сборки исполняемого файла
+# Установка: pip install -r requirements-build.txt
+
+-r requirements.txt
+pyinstaller>=5.13.0
